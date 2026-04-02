@@ -22,6 +22,13 @@
 			"bucket_name": "emdash","preview_bucket_name": "emdash",
 		},
 	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "e702cedb47f941be8b224084e454d6e7",
+			"preview_id": "e702cedb47f941be8b224084e454d6e7",
+		},
+	],
 	"observability": {
 		"enabled": true,
 	},
